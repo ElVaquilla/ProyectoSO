@@ -1,0 +1,1 @@
+Versión del front end completa. Implementa Loggin y registro por primary key username
