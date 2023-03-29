@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\bin\Debug\ProyectoSO_Cliente.dll
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\bin\Debug\ProyectoSO_Cliente.pdb
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\obj\Debug\ProyectoSO_Cliente.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\obj\Debug\ProyectoSO_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\obj\Debug\ProyectoSO_Cliente.dll
+C:\Users\HP\Desktop\UPC\2B\SO\ProyectoSO_Cliente\obj\Debug\ProyectoSO_Cliente.pdb
